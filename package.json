@@ -1,0 +1,24 @@
+{
+  "name": "tr_musicplayer",
+  "version": "0.0.0",
+  "description": "music player",
+  "main": "launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshmarinacci/tr_musicplayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshmarinacci/tr_musicplayer/issues"
+  },
+  "homepage": "https://github.com/joshmarinacci/tr_musicplayer",
+  "dependencies": {
+    "node-thrust": "^0.7.6-rc.1",
+    "react": "^0.13.1",
+    "reactify": "^1.1.0"
+  }
+}
